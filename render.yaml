@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: cloud-links-a8z2scv-
+    env: static
+    staticPublishPath: .
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
